@@ -9,7 +9,7 @@
 title: Mike
 email: masinogns@gmail.com
 description:  I Can do it !!!
-Boys Be Ambitious.
+              Boys Be Ambitious.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://masinogns.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
