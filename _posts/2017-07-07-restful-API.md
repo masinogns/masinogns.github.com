@@ -2,7 +2,7 @@
 layout: post
 title: restful API를 일반인에게 설명해보세요.
 categories: Interview
-tag: 면접대비, 지식
+tag: 기술면접, 지식, API
 ---
 ### 의문 ? 웹의 본래 설계의 우수성
 무엇이 있을까?
