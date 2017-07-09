@@ -2,7 +2,7 @@
 layout: post
 title: Web Server and Web Application Server(WAS)
 categories: Interview
-tag: 기술면접, 지식, 서버
+tag: 기술면접, 지식, 서버, 웹
 ---
 ### 웹 서버
 <strong>소프트웨어 관점에서의 웹 서버</strong>

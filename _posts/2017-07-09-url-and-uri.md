@@ -4,16 +4,16 @@ title: URI and URL
 categories: Interview
 tag: 기술면접, 지식, 웹
 ---
-![](http://cdqy.lite.imgeng.in/w_773/h_329/http://webtechsharing.com/wp-content/uploads/2015/11/URI.png)
 
 ### URI(Uniform Resource Identifier)
 
-URI는 리소스를 식별하기 위해 문자열 전반을 나타낸다.<br>
+<p>특정 사이트를 접속하기 위해 인터넷 주소창에 적는 문자열</p>
+<p>URI는 리소스를 식별하기 위해 문자열 전반을 나타낸다.</p>
 <p>해당 리소스를 식별할 수 있는 식별정보</p>
 
 ### URL(Uniform Resource Locator )
 
-URL은 리소스의 장소를 타나낸다.<br>
+<p>URL은 리소스의 장소를 타나낸다.</p>
 <p>해당 리소스의 정확한 위치</p>
 <strong>'리소스의 위치'라는 것은 결국은 '하나의 파일 위치'를 나타내는 것임을 명심하자.</strong>
 
@@ -28,8 +28,9 @@ URL은 리소스의 장소를 타나낸다.<br>
 <ul>
 <li>http://www.google.com/img/korea/river.jpg</li>
 'river.jpg라는 인터넷 상의 해당 리소스의 정확한 위치 정보를 포함한다. 이는 URI이면서 URL이라고 말할 수 있다.'
-<li>최근들어서는 홈페이지 주소역시 보안상, 디자인상, 유지보수상의 이유로 정확한 위치정보를 포함하지 않는경우가 많다.
-</li>
+<li>최근들어서는 홈페이지 주소역시 보안상, 디자인상, 유지보수상의 이유로 정확한 위치정보를 포함하지 않는경우가 많다.</li>
+<li>http://www.google.com/users?id=kihoon</li>
+'파일 위치를 알려주지는 않음. 그러므로 URL은 아니다.'
 </ul>
 
 
@@ -39,7 +40,9 @@ URL은 리소스의 장소를 타나낸다.<br>
 <li>http://www.google.com/img/korea/river</li>
 'river라는 자원에 접근하고 싶은데 정확한 위치정보를 포함하지는 않는다.'<br>
 '똑같은 river.jpg를 볼 수 있지만 river라는 식별자로 자원에 접근한다.'
-<li></li>
+<li>http://www.google.com/users?id=kihoon</li>
+'해당 링크를 누르면 특정 웹 사이트로 이동되므로 URI가 맞다.'<br>
+'Get 방식으로 id값을 세팅해서 웹 사이트로 접근하기 때문에 파일 위치라고는 볼 수 없다.'
 </ul>
 
 ### 요즘에는..
@@ -63,3 +66,4 @@ http://entertain.naver.com/read?oid=109&aid=0003573633&gid=999339&cid=1065924
 
 [URI URL](http://marlboroyw.tistory.com/280)<br>
 [프로그래머 인생길..](http://lambdaexp.tistory.com/39)
+[개발자로 홀로 서기](http://mommoo.tistory.com/43)
