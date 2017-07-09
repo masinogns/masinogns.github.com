@@ -55,5 +55,11 @@ http://entertain.naver.com/read?oid=109&aid=0003573633&gid=999339&cid=1065924
 
 <p>URL이 아니라 URI를 뜻한다.</p>
 
-[참고 !!!!](http://marlboroyw.tistory.com/280)
+##### 최근들어서는 홈페이지 주소역시 보안상, 디자인상, 유지보수상의 이유로 정확한 위치정보를 포함하지 않는경우가 많다.
+
+##### 이것은 Restful한 URI 설계 때문에 그런 것 같다.
+
+### 출처
+
+[URI URL](http://marlboroyw.tistory.com/280)<br>
 [프로그래머 인생길..](http://lambdaexp.tistory.com/39)
