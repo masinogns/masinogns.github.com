@@ -45,7 +45,7 @@ nav:
   Blog:
     - '/blog/'
     - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+    - { Portfolio: '/blog/tags/' }
   About:
     - '/about/'
   Github Project:
