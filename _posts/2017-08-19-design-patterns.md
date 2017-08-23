@@ -1,10 +1,14 @@
 ---
 layout: post
-title: 인프런 [Design pattern] 
+title: 인프런 [Design pattern]
 categories: Interview
 ---
 
 # 디자인 패턴
+
+디자인 패턴의 기본
+
+선언과 구현
 
 ## Strategy pattern (전략 패턴)
 
